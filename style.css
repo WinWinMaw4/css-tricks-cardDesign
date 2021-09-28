@@ -197,7 +197,9 @@ html::-webkit-scrollbar-thumb:hover {
 }
 /* max-with(200px) */
 @media (max-width: 1023px){   
-
+section{
+  height: 90vh;
+}
 .popular-article{
     overflow-x: scroll;
     padding-left: 2px !important;
